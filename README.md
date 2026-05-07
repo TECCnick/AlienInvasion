@@ -1,4 +1,4 @@
-Alien Invasion Game based on Eric Matthes' Python Crash Course
+Alien Invasion Game
 
 01/29/26
 
